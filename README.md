@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @.Ian
+- 👋 Hi, I’m Ian
 - 👀 I’m  an IT Student At Technical University Of Mombasa.
 - Interested in being an android developer and Network Engineer
 - 🌱 I’m currently learning kotlin and jetpack compose basics,and Switching Basics and Intermediate Routing
